@@ -107,7 +107,7 @@ const [newProduct, setNewProduct] = useState({
 })
 
 
-  const whatsappNumber = '91882550652'
+  const whatsappNumber = '918825506532'
 
  
   useEffect(() => {
